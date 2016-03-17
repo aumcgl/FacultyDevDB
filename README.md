@@ -14,8 +14,8 @@ Personal contributions: All functionality for Activities pages, help on other pa
     with Christopher Hunt. 
 
 Teammates and GitHub Accounts:
-    Quinten Lambert - Oklane 
-    Roland "Junior" Toussaint - juniorro 
+    Quinten Lambert - Oklane, 
+    Roland "Junior" Toussaint - juniorro,
     Christopher Hunt
 
 Feel free to contact me with any questions.
